@@ -1,4 +1,4 @@
-package com.zsh.design.simplefactory;
+package com.zsh.design.factorymode.simplefactory;
 
 public class BMWCar extends Car{
 

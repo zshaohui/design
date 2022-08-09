@@ -1,4 +1,4 @@
-package com.zsh.design.abstractfactory;
+package com.zsh.design.factorymode.abstractfactory;
 
 //小米手机
 public class XiaomiPhone implements IphoneProduct {

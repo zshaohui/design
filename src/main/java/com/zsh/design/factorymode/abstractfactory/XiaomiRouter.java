@@ -1,4 +1,4 @@
-package com.zsh.design.abstractfactory;
+package com.zsh.design.factorymode.abstractfactory;
 
 public class XiaomiRouter implements IRouterProduct {
 

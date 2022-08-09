@@ -1,4 +1,4 @@
-package com.zsh.design.factorymethod;
+package com.zsh.design.factorymode.factorymethod;
 
 public class DatabaseLog implements Log {
 

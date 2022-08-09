@@ -1,4 +1,4 @@
-package com.zsh.design.abstractfactory;
+package com.zsh.design.factorymode.abstractfactory;
 
 public interface IProductFactory {
 	// 生产手机

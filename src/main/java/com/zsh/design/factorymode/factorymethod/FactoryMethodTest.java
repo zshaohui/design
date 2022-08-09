@@ -1,4 +1,4 @@
-package com.zsh.design.factorymethod;
+package com.zsh.design.factorymode.factorymethod;
 
 /*
  工厂方法模式又称为工厂模式,在工厂方法模式中,工厂父类负责定义创建产品对象的公共接口,而工厂子类则负责生成具体的产品对象,
